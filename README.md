@@ -89,7 +89,3 @@ All visualizations are designed to answer **“So what?”** from a business per
 
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c2234ae89961b3bca5d0a395c05c661d241ef226
